@@ -1,4 +1,4 @@
-# Hi there, I'm **Hriday Raj Singh Krishnawat** 👋
+# Hi there, I'm **Hridayraj Singh Krishnawat** 👋
 ### 🚀 Full-Stack Web Developer & UI Specialist
 
 ---
